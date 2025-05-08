@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efedemirc
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning github 
+- 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Efedemircivelek@gmail.com
 - 😄 Pronouns: ...
